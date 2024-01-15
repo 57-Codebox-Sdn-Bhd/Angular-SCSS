@@ -18,7 +18,7 @@ OR
 * TypeScript `5.1.3`
 
 ### Minor Libaries
-* Libraries that are commonly used are pre-installed. Refer to [package.json](https://github.com/57-Codebox/React-Native/blob/master/package.json)
+* Libraries that are commonly used are pre-installed. Refer to [package.json](https://github.com/57-Codebox/Angular-SCSS/blob/master/package.json)
 
 ### Important Notes
 * Remember to use VSCode `Ctrl + Shift + F` to rename `angular-scss-template` accordingly to your own project name. 
